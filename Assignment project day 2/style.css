@@ -1,0 +1,30 @@
+body{
+    background-image: url(images/image.jpg);
+    
+}
+.head{
+    color: red;
+    background-color: rgb(255, 255, 255);
+}
+p{
+    background-color: indianred;
+    font-size: 30px;
+}
+img{
+    border: white solid 2px;
+    width: 240px;
+    padding: 5px;
+    margin: 10px;
+}
+a:hover{
+    color: white;
+}
+.profile{
+    background-color: white;
+    width: 300px;
+    padding: 5px;
+    margin: 10px;
+}
+div a:hover{
+    color: red;
+}
